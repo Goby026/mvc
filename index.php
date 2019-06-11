@@ -3,7 +3,7 @@
 require "config.php";
 require "Controllers/Errors.php";
 
-$url = isset($_GET["url"]) ? $_GET["url"]:"Index/index";
+$url = isset($_GET["url"]) ? $_GET["url"]:"Login/index";
 
 $url = explode("/", $url);
 

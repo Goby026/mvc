@@ -6,6 +6,6 @@ class Index_model{
     }
 
     public function indexModel(){
-        echo "Modelo Index preparado";
+//        echo "Modelo Index preparado";
     }
 }
